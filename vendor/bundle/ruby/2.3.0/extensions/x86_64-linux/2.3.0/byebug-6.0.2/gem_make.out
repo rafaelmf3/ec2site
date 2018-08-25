@@ -1,0 +1,19 @@
+current directory: /home/rafael/Desktop/WF/rails-startbootstrap-creative-master/vendor/bundle/ruby/2.3.0/gems/byebug-6.0.2/ext/byebug
+/usr/share/rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20180825-4727-evmohw.rb extconf.rb
+creating Makefile
+
+current directory: /home/rafael/Desktop/WF/rails-startbootstrap-creative-master/vendor/bundle/ruby/2.3.0/gems/byebug-6.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/rafael/Desktop/WF/rails-startbootstrap-creative-master/vendor/bundle/ruby/2.3.0/gems/byebug-6.0.2/ext/byebug
+make "DESTDIR="
+compiling byebug.c
+compiling breakpoint.c
+compiling threads.c
+compiling locker.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/rafael/Desktop/WF/rails-startbootstrap-creative-master/vendor/bundle/ruby/2.3.0/gems/byebug-6.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20180825-4727-1fhyw9k/byebug
